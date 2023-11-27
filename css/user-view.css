@@ -1,0 +1,12 @@
+#page-content-view{
+    padding-top: 10vh;
+}
+
+
+
+#filter-btn{
+    width: 100px;
+    display: block;
+    margin-bottom: 3vh;
+    margin-left: 91%;
+}
